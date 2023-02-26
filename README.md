@@ -12,7 +12,14 @@ part of commercial offerings.
 2. They have too much online integration. I want to keep my data local.
 
 Because of the desire for local data, this GitHub repository is only part of
-the picture. This public repository has only my client-side code.
+the picture. This public repository has only my client-side code and the
+database interface code. It is missing actual database of finance information.
 I plan to run an instance on my home local network with my personal data.
 In the unlikely case someone else wants to use it, great, but they'd have to
 setup their own database.
+
+## Technical Objectives
+This project will also serve as a vehicle to explore various software
+development topics. I'll probably change up the client-side code several times
+and/or develop multiple versions. I'll likely explore multiple databases for
+back-end storage as well.
